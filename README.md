@@ -13,7 +13,7 @@ I am a **Full-Stack & AI Engineer** and an **AI Postgraduate** specialising in b
 
 | Category | Technologies |
 | :--- | :--- |
-| **AI / Machine Learning** | PyTorch, Scikit-Learn, CNNs, GANs, VAEs, Librosa, YAMNet (more I am probably missing out) |
+| **AI / Machine Learning** | PyTorch, Scikit-Learn, CNNs, GANs, VAEs, Librosa, YAMNet |
 | **GenAI & Agents** | LLM Orchestration, Agentic Workflows, Retrieval-Augmented Generation (RAG) |
 | **Backend & Databases** | Node.js, Python (FastAPI/Flask), PHP (Laravel), MySQL, PostgreSQL, Supabase |
 | **Frontend** | Next.js, TypeScript, React, Nuxt, JavaScript, HTML5, CSS3 |
